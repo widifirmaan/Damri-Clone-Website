@@ -40,6 +40,7 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
+*   Codeigniter 3
 *   HTML5
 *   CSS
 *   JavaScript
